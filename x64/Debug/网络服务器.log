@@ -1,0 +1,21 @@
+﻿  http.cpp
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(19,20): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(111,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(114,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(117,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(120,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(110,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(113,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(116,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(119,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(130,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(153,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(156,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(180,13): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(197,6): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(221,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(224,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(241,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(263,19): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\visual learning\c++\网络服务器\网络服务器\http.cpp(271,38): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  网络服务器.vcxproj -> E:\visual learning\c++\网络服务器\x64\Debug\网络服务器.exe
